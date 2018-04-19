@@ -7,9 +7,7 @@ import javax.swing.JTextArea;
 import javax.swing.text.html.HTMLEditorKit;
 
 public class Main 
-{
-	protected int	test;
-	
+{	
 	public static void main(String[] args)
 	{		
 		JFrame	window = new JFrame();
