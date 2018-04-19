@@ -1,6 +1,10 @@
-package GUI.mainWindow.mainPanel.subPanels.ASCIIPanel;
+import java.awt.BorderLayout;
 
+import javax.swing.JEditorPane;
+import javax.swing.JFrame;
+import javax.swing.JSplitPane;
 import javax.swing.JTextArea;
+import javax.swing.text.html.HTMLEditorKit;
 
 public class Main 
 {
