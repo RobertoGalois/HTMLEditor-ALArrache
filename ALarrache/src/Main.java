@@ -1,13 +1,6 @@
-import java.awt.BorderLayout;
-import java.awt.event.KeyEvent;
-import java.awt.event.KeyListener;
+package GUI.mainWindow.mainPanel.subPanels.ASCIIPanel;
 
-import javax.swing.JEditorPane;
-import javax.swing.JFrame;
-import javax.swing.JSplitPane;
 import javax.swing.JTextArea;
-import javax.swing.text.html.HTMLEditorKit;
-
 
 public class Main 
 {
